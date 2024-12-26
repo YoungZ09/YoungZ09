@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoungZ09
-- 👀 I’m interested in learn python
+- 👀 I’m interested in learn Python, Javascript, HTML and CSS.
 - 🌱 I’m currently learning some programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
